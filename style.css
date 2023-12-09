@@ -1,0 +1,9 @@
+.nav-item a:hover{
+    background-color: black;
+    color: aquamarine;
+}
+body {
+    background-image: url(https://i.ytimg.com/vi/CPgj843Y6VE/maxresdefault.jpg);
+    background-size: cover;
+    height:100hv;
+}
